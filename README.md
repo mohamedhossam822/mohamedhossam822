@@ -51,9 +51,8 @@ const skills =
 }
 
 ```
-
+<!---
 <span><img alt="My Github stats"  width="420px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mohamedhossam822&show_icons=true&hide_border=true&theme=react&count_private=true&hide=contribs,issues&include_all_commits=true"/></span>
 <span><img alt="My Github stats"  width="420px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhossam822&langs_count=6&layout=compact"/></span>
-
-
+-->
 
