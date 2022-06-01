@@ -31,7 +31,7 @@ var status =
 { 
   Degree       : "Bachelor in Computer & Communication Engineering From Faculty of Engineering, Alexandria University",
   Certificates : ["The Complete 2020 WebDevelopment Bootcamp"],
-  learning     : [React, PostgreSQL, TypeScript, GraphQL, TinyHouseCourse],
+  learning     : [PostgreSQL, TypeScript, GraphQL, TinyHouseCourse, System Design],
   interests    : [Problem Solving, Backend Development],
 }
 
