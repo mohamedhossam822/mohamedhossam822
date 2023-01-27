@@ -37,17 +37,17 @@ var status =
 
 const skills = 
 {
-  languages :[C,  Python,  Java, Html5, Css3, Javascript, Php],
+  languages :[C,  Python,  Java, Html5, Css3, Javascript, Php, C#],
   
-  frameworks:[Bootstrap, React, Node],
+  frameworks:[Bootstrap, React, Node, .Net Core],
   
   libraries :[Jquery,  Express],
   
-  ide       :[Vs Code, PyCharm, Atom, Eclipse, Codeblocks],
+  ide       :[Vs Code, PyCharm, Atom, Eclipse, Codeblocks, VS],
   
-  databases :[MySql, MongoDB],
+  databases :[MySql, MongoDB, MSSQL Server],
   
-  platforms :[Trello, Heroku, Github, Insomnia, Postman]
+  platforms :[Trello, Heroku, Github, Insomnia, Postman, bitbucket]
 }
 
 ```
