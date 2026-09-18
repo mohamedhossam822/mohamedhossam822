@@ -20,39 +20,31 @@
 </a>
 <br/>
 <br/>
-<h2 align="center">Hello World 👋, I'm Mohamed Hossam</h1>
+<h2 align="center">Hello World 👋, I'm Mohamed Hossam</h2>
 
 
 ```js
 
 console.log("Hello World");
 
-var status = 
+const status = 
 { 
-  Degree       : "Bachelor in Computer & Communication Engineering From Faculty of Engineering, Alexandria University",
-  Certificates : ["The Complete 2020 WebDevelopment Bootcamp"],
-  learning     : [PostgreSQL, TypeScript, GraphQL, TinyHouseCourse, System Design],
-  interests    : [Problem Solving, Backend Development],
+  currentRole  : "Senior Data Engineer & Team Lead @ Smartera3S",
+  pastRoles    : ["Data Architecture Engineer @ Riyad Bank", "Platform & Data Engineer @ OneBank"],
+  degree       : "Bachelor in Computer & Communication Engineering, Alexandria University",
+  certificates : ["CDP Certified Administrator", "Denodo Certified Professional"],
+  focusAreas   : ["Distributed Big Data Systems", "ETL/ELT Pipeline Design", "Data Warehousing", "CI/CD"],
 }
 
 const skills = 
 {
-  languages :[C,  Python,  Java, Html5, Css3, Javascript, Php, C# ],
+  languages       : ["Python", "SQL", "Java", "Scala", "JavaScript", "Bash"],
   
-  frameworks:[Bootstrap, React, Node, .Net Core],
+  bigData         : ["Apache Spark", "Cloudera CDP", "Hadoop", "Hive", "Kafka"],
   
-  libraries :[Jquery,  Express],
+  dataModeling    : ["ERwin", "Logical & Physical Modeling", "Data Vault", "Dimensional Modeling"],
   
-  ide       :[Vs Code, PyCharm, Atom, Eclipse, Codeblocks, VS],
+  databases       : ["PostgreSQL", "MySQL", "MSSQL Server", "MongoDB"],
   
-  databases :[MySql, MongoDB, MSSQL Server],
-  
-  platforms :[Trello, Heroku, Github, Insomnia, Postman, Bitbucket]
+  platformsTools  : ["Denodo", "Git", "GitHub", "CI/CD", "VS Code", "PyCharm"]
 }
-
-```
-<!---
-<span><img alt="My Github stats"  width="420px" height="200px" src="https://github-readme-stats.vercel.app/api?username=mohamedhossam822&show_icons=true&hide_border=true&theme=react&count_private=true&hide=contribs,issues&include_all_commits=true"/></span>
-<span><img alt="My Github stats"  width="420px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhossam822&langs_count=6&layout=compact"/></span>
--->
-
