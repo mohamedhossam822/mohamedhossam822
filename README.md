@@ -13,7 +13,7 @@
   <img align="right" alt="Mohamed Hossam - Facebook" width="22px" src="https://github.com/mohamedhossam822/mohamedhossam822/blob/main/Public/facebook.png"/>
 </a>
 <a href="https://www.linkedin.com/in/MH98/">
-  <img align="right" alt="Mohamed Hossam - LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png"/>
+  <img align="right" alt="Mohamed Hossam - LinkedIn" width="24px" src="https://github.com/mohamedhossam822/mohamedhossam822/blob/main/Public/LinkedIn.png"/>
 </a>
 <a href="mailto:mohamedhossam822@gmail.com">
   <img align="right" alt="Mohamed Hossam - email" width="22px" src="https://github.com/mohamedhossam822/mohamedhossam822/blob/main/Public/email1.png"/>
